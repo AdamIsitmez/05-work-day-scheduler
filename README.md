@@ -10,7 +10,7 @@ A simple calendar application that allows a user to save events for each hour of
 
 View this web application at:
 
-https://adzy404.github.io/05-work-day-scheduler/
+https://AdamIsitmez.github.io/05-work-day-scheduler/
 
 Type your noted in the corresponding timeslot and press the save button to the right of the page. 
 
